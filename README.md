@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-I'm Ofqwx, I'm a frontend developer, Open Source Enthusiast and a triathlete in my free time.
+I'm a frontend developer, Open Source Enthusiast and a triathlete in my free time.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
